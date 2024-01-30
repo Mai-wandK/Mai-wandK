@@ -5,8 +5,8 @@
 - 🔭 I’m currently working on **PetPulse**
 
 - 🌱 I’m currently learning **Ruby on Rails**
-- 🚀 Full-Stack Developer: I bring ideas to life by crafting both the frontend and backend of web applications.
-- - 🌐 Web Enthusiast: I enjoy creating seamless and user-friendly experiences on the web.
+- 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
+- 🌐 Web Enthusiast: I enjoy creating seamless and user-friendly experiences on the web.
 - 🎓 Lifelong Learner: The tech world evolves, and so do I. I'm always learning and staying up-to-date with the latest technologies.
 
 <h3 align="left">Languages and Tools:</h3>
