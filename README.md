@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mai-wandk&show_icons=true&locale=en" alt="mai-wandk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mai-wandk&" alt="mai-wandk" /></p>
+
