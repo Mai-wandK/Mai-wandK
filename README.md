@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Full Stack Developer based in Istanbul</h3>
 
 - 🔭 I’m currently working as a full-stack developer and content creator for <a href="(https://primestratix.com/)">PrimeStratix</a> and as a language tutor for <a href="(https://primestratix.com/)">Linguacove</a>.
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **React**
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 🌐 Web Enthusiast: I enjoy creating seamless and user-friendly experiences on the web.
 - 🎓 Lifelong Learner: The tech world evolves, and so do I. I'm always learning and staying up-to-date with the latest technologies.
