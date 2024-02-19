@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Maiwand</h1>
 <h3 align="center">A Passionate Full Stack Developer based in Istanbul</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🔭 I’m currently working as a full-stack developer and content creator for PrimeStratix and as a language tutor for Linguacove.
 - 🌱 I’m currently learning **Ruby on Rails**
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 🌐 Web Enthusiast: I enjoy creating seamless and user-friendly experiences on the web.
