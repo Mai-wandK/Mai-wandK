@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Maiwand</h1>
-<h3 align="center">A Passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer based in Istanbul</h3>
 
+-🔭 I’m currently working with ViaEurope as a Technical Support Engineer and Le Wagon as a Web Development instructor.
 - 🌱 I’m currently learning **Ruby on Rails**
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 🌐 Web Enthusiast: I enjoy creating seamless and user-friendly experiences on the web.
