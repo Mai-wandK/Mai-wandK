@@ -4,6 +4,7 @@
 <h5 align="center">A Passionate Full Stack Developer based in Istanbul</h5>
 
 - 🌱 I’m currently learning **React**
+- 👨‍💻 All of my projects are available at [https://github.com/Mai-wandK](https://github.com/Mai-wandK)
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 💬 Ask me about **Ruby on Rails**
 - 🌐 Web Enthusiast: I enjoy creating seamless and **user-friendly** experiences on the web.
