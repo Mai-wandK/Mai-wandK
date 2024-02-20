@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Maiwand</h1>
+  <br> <br>
 <h3 align="center">A Passionate Full Stack Developer based in Istanbul</h3>
 
-  <br> <br>  <br> <br>
+  <br> <br>  
 
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 🌐 Web Enthusiast: I enjoy creating seamless and **user-friendly** experiences on the web.
