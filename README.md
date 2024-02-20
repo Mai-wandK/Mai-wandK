@@ -9,7 +9,8 @@
 - 💬 Ask me about **Ruby on Rails**
 - 📄 Know about my experiences [https://www.linkedin.com/in/maiwandkakar/](https://www.linkedin.com/in/maiwandkakar/)
 
-
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
 
 
 <h3 align="left">Connect with me:</h3>
