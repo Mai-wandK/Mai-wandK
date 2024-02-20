@@ -7,6 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mai-wandK](https://github.com/Mai-wandK)
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 💬 Ask me about **Ruby on Rails**
+- 📄 Know about my experiences [https://www.linkedin.com/in/maiwandkakar/](https://www.linkedin.com/in/maiwandkakar/)
 - 🌐 Web Enthusiast: I enjoy creating seamless and **user-friendly** experiences on the web.
 - 🎓 Lifelong Learner: The tech world evolves, and so do I. I'm always learning and staying up-to-date with the latest technologies.
 
