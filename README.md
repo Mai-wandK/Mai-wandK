@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/maiwandkakar/](https://www.linkedin.com/in/maiwandkakar/)
 
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=ileriayo" alt="https://github.com/ileriayo" />
+  <img src="https://komarev.com/ghpvc/?username=Mai-wandK" alt="https://github.com/Mai-wandK" />
 
 
 <h3 align="left">Connect with me:</h3>
