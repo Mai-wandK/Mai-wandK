@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Maiwand</h1>
-  <br> <br>
 <h3 align="center">A Passionate Full Stack Developer based in Istanbul</h3>
+  
   <br> <br>  
 - 🚀 Full-Stack Developer: I bring ideas to life by crafting both the **frontend and backend** of web applications.
 - 🌐 Web Enthusiast: I enjoy creating seamless and **user-friendly** experiences on the web.
@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mai-wandK](https://github.com/Mai-wandK)
 - 💬 Ask me about **Ruby on Rails**
 - 📄 Know about my experiences [https://www.linkedin.com/in/maiwandkakar/](https://www.linkedin.com/in/maiwandkakar/)
+  
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Mai-wandK" alt="https://github.com/Mai-wandK" />
 
