@@ -7,7 +7,7 @@
 - 🌐 Web Enthusiast: I enjoy creating seamless and **user-friendly** experiences on the web.
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [https://github.com/Mai-wandK](https://github.com/Mai-wandK)
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **NextJS**
   
 
 <h3 align="left">Languages and Tools:</h3>
